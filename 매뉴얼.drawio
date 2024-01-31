@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T01:58:20.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Whale/3.24.223.21 Safari/537.36" etag="jdjGS8dJu4TY_CzwHUjb" version="23.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-31T02:11:47.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Whale/3.24.223.21 Safari/537.36" etag="cG90aqP9rsSKVymVVpNi" version="23.0.2" type="github">
   <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
     <mxGraphModel dx="1388" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O7xIF8JFHA3XfuG6x03e-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="90" y="180" width="770" height="300" as="geometry" />
+          <mxGeometry x="90" y="210" width="770" height="300" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-1" value="CUGS" style="shape=step;whiteSpace=wrap;html=1;fontSize=22;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;fontFamily=twayfly;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_tway%401.0%2Ftwayfly.woff;" parent="O7xIF8JFHA3XfuG6x03e-1" vertex="1">
           <mxGeometry width="170" height="80" as="geometry" />
@@ -35,6 +35,39 @@
           <mxGeometry x="460" y="100" width="140" height="200" as="geometry" />
         </mxCell>
         <mxCell id="57fe6abec08f04cb-12" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;imtcrs02&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;imtcrs01&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Pretendard-Regular;fillColor=none;strokeColor=none;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FProject-Noonnu%2Fnoonfonts_2107%401.1%2FPretendard-Regular.woff;fontStyle=1" parent="O7xIF8JFHA3XfuG6x03e-1" vertex="1">
+          <mxGeometry x="610" y="100" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="600" width="770" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-2" value="CUGS" style="shape=step;whiteSpace=wrap;html=1;fontSize=22;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;fontFamily=twayfly;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_tway%401.0%2Ftwayfly.woff;" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="600" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-3" value="SCS" style="shape=step;whiteSpace=wrap;html=1;fontSize=22;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;fontFamily=twayfly;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_tway%401.0%2Ftwayfly.woff;" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="450" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-4" value="UGS" style="shape=step;whiteSpace=wrap;html=1;fontSize=22;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;fontFamily=twayfly;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_tway%401.0%2Ftwayfly.woff;" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="300" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-5" value="UCM" style="shape=step;whiteSpace=wrap;html=1;fontSize=22;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;fontFamily=twayfly;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_tway%401.0%2Ftwayfly.woff;" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="150" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-6" value="DBCS" style="shape=step;whiteSpace=wrap;html=1;fontSize=22;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;fontFamily=twayfly;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fprojectnoonnu%2Fnoonfonts_tway%401.0%2Ftwayfly.woff;" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-7" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;imtcrs01&lt;/div&gt;&lt;div&gt;imtcrs02&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Pretendard-Regular;fillColor=none;strokeColor=none;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FProject-Noonnu%2Fnoonfonts_2107%401.1%2FPretendard-Regular.woff;fontStyle=1" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="10" y="100" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-8" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;New-imntccm01&lt;/div&gt;&lt;div&gt;New-imntccm02&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Pretendard-Regular;fillColor=none;strokeColor=none;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FProject-Noonnu%2Fnoonfonts_2107%401.1%2FPretendard-Regular.woff;fontStyle=1" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="160" y="100" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-9" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;New-imntcugs01&lt;/div&gt;&lt;div&gt;New-imntcugs02&lt;/div&gt;&lt;div&gt;New-imntcugs03&lt;/div&gt;&lt;div&gt;New-imntcugs04&lt;/div&gt;&lt;div&gt;New-imntcugs05&lt;/div&gt;&lt;div&gt;New-imntcugs06&lt;/div&gt;&lt;div&gt;New-imntcugs07&lt;/div&gt;&lt;div&gt;New-imntcugs08&lt;/div&gt;&lt;div&gt;New-imntcugs09&lt;/div&gt;&lt;div&gt;New-imntcugs10&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Pretendard-Regular;fillColor=none;strokeColor=none;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FProject-Noonnu%2Fnoonfonts_2107%401.1%2FPretendard-Regular.woff;fontStyle=1" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="310" y="100" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-10" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;New-imntcscs01&lt;/div&gt;&lt;div&gt;New-imntcscs02&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Pretendard-Regular;fillColor=none;strokeColor=none;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FProject-Noonnu%2Fnoonfonts_2107%401.1%2FPretendard-Regular.woff;fontStyle=1" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
+          <mxGeometry x="460" y="100" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ULdb5yKV5vGz1W7gmali-11" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;div&gt;New-imntccug01&lt;/div&gt;&lt;div&gt;New-imntccug02&lt;/div&gt;&lt;/div&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Pretendard-Regular;fillColor=none;strokeColor=none;fontSource=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FProject-Noonnu%2Fnoonfonts_2107%401.1%2FPretendard-Regular.woff;fontStyle=1" vertex="1" parent="ULdb5yKV5vGz1W7gmali-12">
           <mxGeometry x="610" y="100" width="140" height="200" as="geometry" />
         </mxCell>
       </root>
